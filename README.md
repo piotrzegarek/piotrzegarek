@@ -1,5 +1,5 @@
 ### Hi, I'm Peter 👋 
-I am an 3rd year IT student at the Warsaw University of Technology and aspiring Backend Developer.
+I am last year IT student at the Warsaw University of Technology and Backend Developer.
 My main language is Python 🐍 Also interested in Data Processing and Machine Learning.
 
 ### Languages and Tools that I'm using:
